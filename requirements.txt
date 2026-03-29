@@ -1,0 +1,14 @@
+streamlit
+httpx
+python-whois
+pydantic
+python-dotenv
+beautifulsoup4
+loguru
+redis
+Pillow
+imagehash
+google-generativeai
+openai
+pandas
+plotly
